@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data & models
+*.npy
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+GamePlay.mp4 
+*.mp4
+*.mov
+*.avi
+*.mkv
